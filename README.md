@@ -1,4 +1,4 @@
-# Hola, soy Leonardo 👋🏻 👩🏾‍💻
+# Hola, soy Leonardo 👋🏻 👨🏻‍💻
 
 <img src="title.png" alt="image">
 
